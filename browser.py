@@ -70,7 +70,7 @@ if __name__ == "__main__":
     my_browser.go_back()  # Should move back to GitHub
     my_browser.go_back()  # Should move back to Google
 
-    # 3. Test Going Forward
+    # 3. Test Going Forward 
     my_browser.go_forward()  # Should move forward to GitHub
 
     # 4. Visit a new page while in the middle of history
